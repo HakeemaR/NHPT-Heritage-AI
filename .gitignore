@@ -1,0 +1,36 @@
+# AI assistant folders
+.agents/
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary uploads
+uploads/test_building.jpg
+
+# Raw datasets
+architecture_data/
+architecture_split/
+selected_architecture_styles/
+
+# Backup files
+app_backup.py
